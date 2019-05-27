@@ -22,8 +22,8 @@ class Song
     #self.all.clear
   #end
 
-  #  self.all.count
-  self.all.count
+  #  self.count
+  #self.all.count
   #end
 
   def artist=(artist)
